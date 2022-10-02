@@ -12,4 +12,5 @@ Sono stati eseguiti i seguenti step:
 - Machine Learning
 
 
+## Immagine Demo (estratto del notebook)
 ![Demo Image](https://github.com/enrimon15/datascience-wine-quality/blob/master/demo_img.png)
