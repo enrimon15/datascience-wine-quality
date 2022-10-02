@@ -10,3 +10,6 @@ Sono stati eseguiti i seguenti step:
 - Manipolazione dei Dati
 - Analisi Statistica Descrittiva e Visualizzazione
 - Machine Learning
+
+
+![Demo Image](https://github.com/enrimon15/datascience-wine-quality/blob/master/demo_img.png)
